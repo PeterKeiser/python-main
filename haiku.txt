@@ -1,0 +1,8 @@
+;o))) USIN;o(((s great
+Here's another line of test
+Closing now, goodbye! Writing files is great
+Here's another line of test
+Closing now, goodbye!APPENDING LATER!!!!!APPENDING LATER!
+APPENDING LATER!
+APPENDING LATER!
+;o))

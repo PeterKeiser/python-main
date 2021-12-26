@@ -1,0 +1,11 @@
+#print(1/3) # division returns float, even when dividing two ints 
+#print(2 ** 3)
+#print(4 ** 8)
+#print(49 ** 0.5)
+#print(10 % 3)
+#print(25 % 4)
+#print(13 % 2)
+#print(16 % 2)
+print(10/3)
+print(10//3)
+print(7//7)
