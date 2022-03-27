@@ -1,2 +1,1 @@
-# PythonCourse
-Colt's Python course
+# PythonMain
